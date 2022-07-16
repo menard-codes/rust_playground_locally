@@ -26,7 +26,7 @@ To get started, clone this repo and write a simple hello world program in Rust.
 git clone git@github.com:menard-codes/rust_playground_locally.git
 ```
 
-2. Install dependencies
+2. Install the dependencies
 
 ```sh
 cd rust_playground_locally
@@ -39,9 +39,9 @@ pip3 install requirements.txt # or pip3 install -r requirements.txt
 python3 -m rust_playground
 ```
 
-<SS HERE>
+![Rust Playground](rust_playground.JPG)
 
-4. Write a simple hello world program and execute it. Again, if things went right through, you should see something like this:
+4. Write a simple hello world program and execute it. If things went right through, you should see something like this:
   
- <HELLO WORLD HERE>
+![Rust Playground Hello World](rust_playground-hello-world.JPG)
  
