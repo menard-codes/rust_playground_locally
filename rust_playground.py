@@ -24,8 +24,10 @@ Rust Playground Locally allows you to play around rust code without the need to 
 At its core, this program submits your Rust code to the Rust playground API (https://play.rust-lang.org/) which executes your
 Rust code and prints out the stdout or stderr (if any).
 
-You can directly write Rust code in the terminal using this command:
+To run it, just enter this command:
 `python3 -m rust_playground`
+
+(Note: Running a python file may differ depending on the OS you use, so run it which ever's the right way for your OS)
 """
     if len(argv) > 1 and (argv[1] == "-h" or argv[1] == "--help"):
         print(help_msg)
